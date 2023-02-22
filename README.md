@@ -5,7 +5,7 @@ perangkat lunak khusunya di PT Sanghing Perkasa.
 hal-hal bergerak yang harus diperhatikan dan dipertimbangkan untuk digunakan dalam proyek.
 
 ## Sanghiang Perkasa Tech Radar
-- frontEnd : [https://radar.thoughtworks.com/?sheetId=](frontend radar)
+- frontEnd : [https://radar.thoughtworks.com/?sheetId=https://raw.githubusercontent.com/danamulyana/TechRadarSHP/main/frontend.csv](frontend radar)
 - backEnd : [https://radar.thoughtworks.com/?sheetId=](backend radar)
 
 ## Sekilas Tentang Radar
